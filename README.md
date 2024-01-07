@@ -11,4 +11,4 @@ Pomodoro tamamlandığında sesli uyarı verilir ve mola süresi başlar.
 Ayarlar menüsü ile kullanıcı, pomodoro süresi, set sayısı, mola süresi ve ses dosyasını özelleştirebilir.
 
 
-# Ayrıca ilk paylaşımımdır 
+(Ayrıca ilk paylaşımımdır) 
