@@ -9,7 +9,8 @@
   An audible alert is triggered when a Pomodoro is completed, and the break period begins.
   Users can customize Pomodoro duration, set count, break duration, and the alert sound through the settings menu.
   (This is also my initial submission.)
-
+  
+  (The application is currently only in Turkish)
 
 
 
